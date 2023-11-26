@@ -1,10 +1,6 @@
-# Node.js template
+# MongoDB-TP-TW3
 
-This is a Node.js project.
-
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io/p/dashboard).
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs/learn)
-- [CodeSandbox — Discord](https://discord.gg/Ggarp3pX5H)
+étapes :
+- Utiliser le cours pour installer mongoDB dans le codesandBox.
+- Suivre les consignes d'initialisation de l'exercice.
+- S'approprié le code est ajouter des fonctionalités, des actions pour interagir avec mongoo.
